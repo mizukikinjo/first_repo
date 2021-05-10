@@ -1,3 +1,7 @@
 file is changes
+<<<<<<< HEAD
 File is changed by master
+=======
+File is changed by try-conflict
+>>>>>>> try-conflict
 
